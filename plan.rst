@@ -2,14 +2,14 @@
 Coworking Over IP
 =================
 
-Constat
+Constat {{{1
 =======
 
 - augmentation du nombre de télétravailleur
 - besoin de communication très présent
 - insuffisance des outils standards
 
-Outils "standards"
+Outils "standards" {{{1
 ==================
 
 Outil old-school
@@ -32,10 +32,13 @@ Outils "online" connus
 - Adobe Connect
 - Mumble
 
-Outils moins courants
+Des mails ? oui mais chiffrés....
+---------------------------------
+
+Outils moins courants {{{1
 =====================
 
-Exemple 1
+Exemple 1 {{{2
 ---------
 
 Besoins
@@ -57,7 +60,7 @@ Implémentations existantes :
 - Etherpad: Java
 - EtherpadLite: Node.js
 
-Exemple 2
+Exemple 2 {{{2
 ---------
 
 Besoins
@@ -72,7 +75,7 @@ Résultat : WriteLaTeX
 - une sorte d'Etherpad adapté à LaTeX avec auto regénération du résultat et modifications partagés
 - testé et plus qu'approuvé
 
-Exemple 3
+Exemple 3 {{{2
 ---------
 
 Besoins
@@ -110,7 +113,7 @@ Autres infos
 - Github a une appli Androïd et des clients Windows et Mac
 - Tortoise-git est une appli git pour Windows
 
-Gare aux arnaques
+Gare aux arnaques {{{1
 =================
 
 Avant de choisir définitivement un service, pensez à lire les CGU.
