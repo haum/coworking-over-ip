@@ -7,3 +7,8 @@ Plan
 ====
 
 Voir plan.rst
+
+Auteurs
+=======
+
+- Mathieu (matael) Gaborit
