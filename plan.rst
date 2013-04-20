@@ -113,6 +113,22 @@ Autres infos
 - Github a une appli Androïd et des clients Windows et Mac
 - Tortoise-git est une appli git pour Windows
 
+Exemple 4 {{{2
+---------
+
+Besoins
+~~~~~~~
+
+- partage de fichiers sur plusieurs machines avec plusieurs personnes
+- agenda commun
+- serveur perso
+
+Resultat : OwnCloud
+~~~~~~~~~~~~~~~~~~~
+
+- enfin un cloud libre et perso
+- supporté par une vraie communauté
+- utilisation sur serveur communautaire
 Gare aux arnaques {{{1
 =================
 
