@@ -12,7 +12,7 @@ Liens dans les slides
 
 Voilà la liste des liens dans les *slides*, ainsi que des liens vers des ressources citées :
 
-- Introduction
+- **Introduction**
 
     - Ce site : http://haum.org
     - la mailing-list du HAUM : http://lists.matael.org/mailman/listinfo/haum_hackerspace
@@ -27,7 +27,7 @@ Voilà la liste des liens dans les *slides*, ainsi que des liens vers des ressou
     - RFC822 : http://www.ietf.org/rfc/rfc0822.txt
     - PGP/GPG : http://fr.wikipedia.org/wiki/Pretty_Good_Privacy
 
-- II - Des outils moins courants
+- **II - Des outils moins courants**
 
     - Etherpad : http://etherpad.org/
     - WriteLaTeX : https://www.writelatex.com/
@@ -44,7 +44,7 @@ Voilà la liste des liens dans les *slides*, ainsi que des liens vers des ressou
     - Tortoise-Git : http://code.google.com/p/tortoisegit/
     - OwnCloud : http://owncloud.org/
 
-- III - Gare aux arnaques
+- **III - Gare aux arnaques**
 
     - TOS;DR : http://tosdr.org/
     - Dropbox : https://www.dropbox.com/
@@ -52,7 +52,7 @@ Voilà la liste des liens dans les *slides*, ainsi que des liens vers des ressou
     - Apple iCloud : https://www.icloud.com/
     - Mega : https://mega.co.nz/
 
-- Remerciement
+- **Remerciements**
 
     - LinuxMaine : http://www.linuxmaine.fr/
 
